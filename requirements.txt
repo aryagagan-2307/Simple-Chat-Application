@@ -1,0 +1,10 @@
+flask==2.3.3
+flask-socketio==5.3.6
+python-socketio==5.11.2
+python-engineio==4.9.1
+Werkzeug==2.3.7
+requests==2.31.0
+Pillow==10.3.0
+venv\Scripts\activate
+user1 Arya pwd 123456
+user2 Gagan pwd 123123
